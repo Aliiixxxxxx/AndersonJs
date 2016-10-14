@@ -1,0 +1,35 @@
+body{ 
+background-color: #111111; 
+} 
+
+#craftItem, #tableItems, #craftTable{
+	text-align: center;
+	padding: 40px;
+}
+
+#window{ 
+	border-style: ridge; 
+	border-color: red; 
+	width: 60%; 
+	height: 750px; 
+	margin: auto; 
+	margin-top: 5%; 
+	background-color: grey; 
+} 
+
+#empty{ 
+	display:inline-block; 
+	margin-left: 50px; 
+	width: 90px; 
+	height: 65px; 
+	border-style: groove; 
+}
+
+#freeslot{ 
+	display:inline-block; 
+	margin-left: 50px; 
+	width: 90px; 
+	height: 65px; 
+	border-style: ridge;
+	border-color: red; 
+}
